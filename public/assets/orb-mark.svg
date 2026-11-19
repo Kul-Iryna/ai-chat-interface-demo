@@ -1,0 +1,26 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Orb mark">
+<g clip-path="url(#clip0_0_146)">
+<circle id="orb-gradient" cx="28" cy="28" r="28" fill="url(#paint0_linear_0_146)"/>
+<g id="orb-highlight" opacity="0.8" filter="url(#filter0_f_0_146)">
+<ellipse cx="24" cy="16" rx="14" ry="10" fill="white" fill-opacity="0.54902"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_146" x="1" y="-3" width="46" height="38" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="4.5" result="effect1_foregroundBlur_0_146"/>
+</filter>
+<linearGradient id="paint0_linear_0_146" x1="8" y1="8" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5AC8FA"/>
+<stop offset="0.45" stop-color="#5E5CE6"/>
+<stop offset="0.75" stop-color="#BF5AF2"/>
+<stop offset="1" stop-color="#FF7A90"/>
+</linearGradient>
+<clipPath id="clip0_0_146">
+<rect width="56" height="56" rx="28" fill="white"/>
+</clipPath>
+</defs>
+</svg>
